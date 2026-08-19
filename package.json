@@ -1,0 +1,27 @@
+{
+  "name": "snipvault",
+  "version": "1.0.0",
+  "description": "A simple TypeScript snippet vault CLI",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giavictor/snipvault.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giavictor/snipvault/issues"
+  },
+  "homepage": "https://github.com/giavictor/snipvault#readme",
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "tsx": "^4.23.12",
+    "typescript": "^5.9.3"
+  }
+}
