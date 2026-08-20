@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "4c8984f8",
+    "title": "Merge Sort",
+    "code": "function mergeSort() {}",
+    "language": "javascript",
+    "tags": [
+      "dsa",
+      "sorting"
+    ],
+    "createdAt": "2026-08-19T14:26:20.046Z"
+  },
+  {
+    "id": "68df04c4",
+    "title": "Persistence Test",
+    "code": "console.log('saved')",
+    "language": "typescript",
+    "tags": [
+      "test"
+    ],
+    "createdAt": "2026-08-19T14:32:37.528Z"
+  },
+  {
+    "id": "f371a929",
+    "title": "Binary Search",
+    "code": "function binarySearch() {}",
+    "language": "javascript",
+    "tags": [
+      "dsa",
+      "search"
+    ],
+    "createdAt": "2026-08-20T11:39:47.105Z"
+  }
+]
