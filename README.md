@@ -1,6 +1,7 @@
 # SnipVault
 
 A lightweight command-line code-snippet manager built with TypeScript. Add, list, search, view, and remove code snippets, all persisted to a local JSON file.
+> ⚠️ This is a CLI-based application and does not have a live web deployment.
 
 ## Features
 
